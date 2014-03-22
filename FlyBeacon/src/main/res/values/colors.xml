@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blackDark">#DD000000</color>
+    <color name="blackLight">#AA000000</color>
+    <color name="blackLightHalf">#55000000</color>
+    <color name="blackLightThird">#33000000</color>
+    <color name="blackLightQuarter">#33000000</color>
+    <color name="snowflakes_test">#55440000</color>
+    <color name="holo_blue_dark">#FF33b5e5</color>
+    <color name="holo_blue_light">#9933b5e5</color>
+    <color name="grey_middle">#CCC0C0C0</color>
+    <color name="grey_middle_half">#66C0C0C0</color>
+    <color name="grey_middle_quarter">#33C0C0C0</color>
+    <color name="transparent">#00000000</color>
+    <color name="off_white_light">#EEFEFEFE</color>
+    <color name="off_white_light_three_quarters">#CCFEFEFE</color>
+
+    <!-- Emirates -->
+    <color name="emirates_60">#AAB31218</color>
+    <color name="emirates_100">#FFB31218</color>
+    <color name="green_100">#FF66CD00</color>
+</resources>

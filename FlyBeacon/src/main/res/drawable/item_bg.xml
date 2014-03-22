@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Pressed State -->
+    <item android:state_pressed="true"><shape>
+        <stroke android:width="2dp" android:color="@color/emirates_100" />
+
+        <corners android:radius="5dp" />
+
+    </shape></item>
+
+    <!-- Default State -->
+    <item><shape>
+        <stroke android:width="2dp" android:color="@color/emirates_100" />
+
+        <corners android:radius="5dp" />
+    </shape></item>
+
+</selector>
